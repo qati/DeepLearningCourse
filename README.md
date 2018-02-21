@@ -17,5 +17,5 @@ Contact: deeplearninginsciences at gmail dot com
 For all deadlines: 23:59:59 CET.
 
 ## Projects:
-One of the [projects](https://www.kaggle.com/t/a2878d3bffbd44b4a7924b4af7acddc7) is already launched, feel free to check and try!  
+One of the [projects](https://www.kaggle.com/t/94ff0b242e0f4d1f8438f0d2c29aa071) is already launched, feel free to check and try!  
 More detail will be given later.
