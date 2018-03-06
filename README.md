@@ -9,7 +9,7 @@ Contact: deeplearninginsciences at gmail dot com
 ## Homeworks:
 | deadline | task |
 | --- | --- |
-| 2018.03.06. | Neural networks forward step |
+| 2018.03.13. | Neural networks forward step |
 | 2018.03.13. | Neural networks backward step, mini-batch gradient descent |
 | 2018.03.20. | [Predict redhift from photometric data](https://www.kaggle.com/c/elte-phys-photoz) |
 For all deadlines: 23:59:59 CET.
