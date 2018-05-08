@@ -9,7 +9,7 @@ Contact: deeplearninginsciences at gmail dot com
 ## Homeworks:
 | deadline | task |
 | --- | --- |
-| 2018.04.17. | [Predict if a person is happy based on images](https://www.kaggle.com/t/94ff0b242e0f4d1f8438f0d2c29aa071) |
+| 2018.04.30. | [Homework 09 - word embedding](https://github.com/qati/DeepLearningCourse/blob/master/assignments/hw09_wordembedding.ipynb) |
 For all deadlines: 23:59:59 CET.
 
 ## Projects:
